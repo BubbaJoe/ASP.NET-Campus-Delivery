@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "GroupProject", "GroupProject", "{98FA6B07-A48A-4CC7-BD12-AE37161FE6EE}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_6145"
+		Debug.AspNetCompiler.PhysicalPath = "GroupProject\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_6145\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_6145"
+		Release.AspNetCompiler.PhysicalPath = "GroupProject\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_6145\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "6145"
+		SlnRelativePath = "GroupProject\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98FA6B07-A48A-4CC7-BD12-AE37161FE6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FA6B07-A48A-4CC7-BD12-AE37161FE6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://150.216.83.197:8080/tfs/csci_4710
+		SccLocalPath0 = .
+		SccWebProject1 = true
+		SccProjectUniqueName1 = GroupProject
+		SccProjectName1 = GroupProject
+		SccLocalPath1 = GroupProject
+		SccProjectEnlistmentChoice1 = 2
+	EndGlobalSection
+EndGlobal
